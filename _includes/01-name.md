@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Sarah Guthals, PhD
+## I like ice cream
+What *flavor* do you like?
